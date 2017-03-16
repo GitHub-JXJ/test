@@ -6,6 +6,9 @@ public class ewywywyw {
 	
 	public static void main(String[] args) {
 		
+		
+		System.out.println("HHHHHHHHHHHHH");
+		
 		String u = "http://www.ergew.com";
 		String u0 = "http://www.ergew.com?ghewhw=1";
 		String u1 = "https://www.ergew.com?ghewhw=1";
