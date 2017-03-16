@@ -6,7 +6,7 @@ public class ewywywyw {
 	
 	public static void main(String[] args) {
 		
-		
+		int a = 20;
 		System.out.println("HHHHHHHHHHHHH");
 		
 		String u = "http://www.ergew.com";
